@@ -1,8 +1,8 @@
-# 🚀 NU SGPA Calculator
+# 🛫 NU SGPA Calculator 🛬
 
 <p align="center">
   <b>Simple • Fast • Responsive</b><br>
-  SGPA Calculator for Navrachana University Students 🎓
+  SGPA Calculator for Nirma University 1st Year Students 🎓
 </p>
 
 ---
@@ -29,10 +29,10 @@
 ---
 
 ## 🚀 How to Use
-1. Enter grades
-2. Enter subject credits
-3. Click Calculate
-4. View SGPA instantly 🎯
+1. Enter your CE,LPW and Predicted SEE Marks
+2. Click Calculate
+3. View SGPA instantly 🎯
+4. Download your Predicted SGPA in PDF form
 
 ---
 
